@@ -36,16 +36,16 @@
 ## ⚡ Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas6c73&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas6c73&theme=tokyonight&hide_border=true" alt="streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas6c73&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas6c73&theme=dracula&hide_border=true" alt="streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas6c73&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas6c73&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas6c73&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas6c73&theme=dracula&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 💬 Citation aléatoire
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote"/>
 </p>
 
 ---
