@@ -49,15 +49,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
-
-## 🏆 Top dépôt contribué
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas6c73&repo=NOM-DU-REPO&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 💬 Citation aléatoire
 
