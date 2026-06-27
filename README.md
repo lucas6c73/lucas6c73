@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, je suis <span style="color:#58a6ff">Ton Nom</span></h1>
+<h1 align="center">Hi 👋, je suis <span style="color:#58a6ff">lucas6c73</span></h1>
 <h3 align="center">Namaste 🙏 Bienvenue sur mon profil !</h3>
 
 <!-- Bannière (remplace le lien par ton image hébergée, ex: dans un dossier assets/ de ce repo) -->
@@ -15,22 +15,7 @@
 - ✨ J'ai commencé le développement avec **ASP.NET MVC**
 - 🎧 Je fais du Front-end et du Web Design
 - 📚 Je poursuis un diplôme en informatique
-- 💼 Expérience en .NET Framework et Full Stack
-- 💬 Demandez-moi : .NET, Full Stack, Python
 - ⚡ Intérêts : IA, Machine Learning, Deep Learning, Data Science
-
-### 🌐 Suivez-moi sur
-
-<p align="left">
-<a href="https://www.linkedin.com/in/TON-PROFIL" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://pinterest.com/TON-PROFIL" target="_blank">
-  <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" />
-</a>
-</p>
-
----
 
 ## 🛠️ Langages & outils
 
@@ -43,15 +28,15 @@
 ## ⚡ Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas6c73&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-PSEUDO&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas6c73&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas6c73&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 ---
@@ -71,7 +56,7 @@
 ## 🏆 Top dépôt contribué
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TON-PSEUDO&repo=NOM-DU-REPO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucas6c73&repo=NOM-DU-REPO&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 💬 Citation aléatoire
@@ -84,10 +69,10 @@
 
 ## ☕ Soutenez-moi
 
-<a href="https://www.buymeacoffee.com/TON-PSEUDO" target="_blank">
+<a href="https://www.buymeacoffee.com/lucas6c73" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
 ---
 
-<p align="center">👀 Vues du profil : <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&color=blueviolet" alt="views"/></p>
+<p align="center">👀 Vues du profil : <img src="https://komarev.com/ghpvc/?username=lucas6c73&color=blueviolet" alt="views"/></p>
