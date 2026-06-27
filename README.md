@@ -17,12 +17,13 @@
 
 ## ⚡ À propos de moi
 
-- ✨ J'ai commencé le développement avec **ASP.NET MVC**
-- 🎧 Je fais du Front-end et du Web Design
-- 📚 Je poursuis un diplôme en informatique
+- 🌱 Développeur **autodidacte**, en apprentissage continu
+- 🧩 J'aime toucher à un peu de tout : Web, Data, Scripting de jeux
+- ✨ Bases en **ASP.NET MVC** et développement Front-end / Web Design
 - 🤖 Intérêts : IA, Machine Learning, Deep Learning, Data Science
 - 🌙 J'aime aussi scripter en **Lua** (mods, jeux, automatisation)
 - 🔭 Toujours en train d'apprendre quelque chose de nouveau
+- 📖 J'apprends principalement par la pratique, les projets persos et la documentation
 
 ---
 
@@ -62,6 +63,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -69,19 +74,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
-</p>
-
----
-
-## 🌐 Réseaux
-
-<p align="left">
-<a href="https://www.linkedin.com/in/TON-PROFIL" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/users/TON-ID" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 </p>
 
 ---
