@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, je suis <span style="color:#58a6ff">lucas6c73</span></h1>
 <h3 align="center">Namaste 🙏 Bienvenue sur mon profil !</h3>
 
-<!-- Bannière (remplace le lien par ton image hébergée, ex: dans un dossier assets/ de ce repo) -->
+<!-- Bannière générée dynamiquement, aucune image à héberger -->
 <p align="center">
-  <img src="./assets/banner.png" alt="banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F+Je+suis+lucas6c73;D%C3%A9veloppeur+autodidacte+%F0%9F%8C%B1;Web+%7C+Data+%7C+Lua+%7C+IA" alt="Typing SVG" />
 </p>
-
-<h1 align="center">lucas6c73 ici 🔥 !</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucas6c73&color=58a6ff&style=flat-square" alt="views"/>
@@ -75,14 +73,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
-
----
-
-## ☕ Soutenez-moi
-
-<a href="https://www.buymeacoffee.com/lucas6c73" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
 
 ---
 
