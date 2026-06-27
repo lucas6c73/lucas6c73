@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, je suis <span style="color:#58a6ff">lucas6c73</span></h1>
 <h3 align="center">Namaste 🙏 Bienvenue sur mon profil !</h3>
 
-<!-- Bannière générée dynamiquement, aucune image à héberger -->
+<!-- Bannière (PNG fourni, à placer dans un dossier assets/ de ton repo) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F+Je+suis+lucas6c73;D%C3%A9veloppeur+autodidacte+%F0%9F%8C%B1;Web+%7C+Data+%7C+Lua+%7C+IA" alt="Typing SVG" />
+  <img src="./assets/banner.png" alt="banner" width="100%"/>
 </p>
 
 <p align="center">
