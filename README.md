@@ -20,7 +20,7 @@
 ## 🛠️ Langages & outils
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,notion,photoshop,cs,cpp,java,js,dotnet,python,csharp,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,java,jspythonjavascript&theme=dark" />
 </p>
 
 ---
